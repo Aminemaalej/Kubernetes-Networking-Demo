@@ -13,16 +13,16 @@ This project covers:
 - **Kubernetes different types of networking**
 - **Setup Kubernetes Network**
 
-## 🌟 Comprehensive Guide
+## 📝 Comprehensive Guide
 For a detailed guide, please refer to the [Youtube video](https://medium.com/p/c046e8d44865).
 
-## Slides
+## ✅ Slides
 
 Slide 1            | Slide 2         | Slide 3        | Slide 4
 :------------------------:|:-----------------------:|:----------------------:|:----------------------:
 ![](slides/slide1.png)  | ![](slides/slide2.png) | ![](slides/slide3.png) | ![](slides/slide4.png)
 
-## 🌟 Useful Commands
+## 💻 Useful Commands
 ### Install Calico
 
 ```
