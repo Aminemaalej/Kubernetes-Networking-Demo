@@ -1,7 +1,7 @@
 # 🚀 Kubernetes Networking Demonstration
 [![LinkedIn](https://img.shields.io/badge/Connect%20with%20me%20on-LinkedIn-blue.svg)](https://www.linkedin.com/in/amine-maalej/)
 
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=7X9Gj3nI73o&t=628s)
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@CloudTech_with_Amine)
 
 
 ![](slides/slide0.png)
@@ -14,7 +14,7 @@ This project covers:
 - **Setup Kubernetes Network**
 
 ## 📝 Comprehensive Guide
-For a detailed guide, please refer to the [Youtube video](https://www.youtube.com/watch?v=7X9Gj3nI73o&t=628s).
+For a detailed guide, please refer to the [Youtube video](https://www.youtube.com/watch?v=7X9Gj3nI73o).
 
 ## ✅ Slides
 
