@@ -4,7 +4,7 @@
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=7X9Gj3nI73o&t=628s)
 
 
-![](slides/slide1.png)
+![](slides/slide0.png)
 
 Welcome to the repository for **demonstrating kubernetes networking**!
 
