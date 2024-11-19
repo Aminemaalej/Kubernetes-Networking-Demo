@@ -14,7 +14,7 @@ This project covers:
 - **Setup Kubernetes Network**
 
 ## 📝 Comprehensive Guide
-For a detailed guide, please refer to the [Youtube video](https://medium.com/p/c046e8d44865).
+For a detailed guide, please refer to the [Youtube video](https://www.youtube.com/watch?v=7X9Gj3nI73o&t=628s).
 
 ## ✅ Slides
 
